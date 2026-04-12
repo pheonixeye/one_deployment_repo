@@ -602,5 +602,12 @@
     "referredFrom" : "جهة التحويل",
     "message" : "الرسالة / تفاصيل",
     "preferredDate" : "التاريخ المفضل",
-    "selectPreferredDate" : "اختر التاريخ المفضل للحجز"
+    "selectPreferredDate" : "اختر التاريخ المفضل للحجز",
+    "notificationsNotAllowedTitle" : "لم يتم السماح باستقبال التنبيهات",
+    "notificationsNotAllowedMessage" : "يمكن تعديل استقبال التنبيهات من اعدادات البرنامج",
+    "notificationSettings" : "خصائص التنبيهات",
+    "status" : "الحالة",
+    "deactivate" : "تعطيل",
+    "activate" : "تفعيل",
+    "howToToggleNotifications" : "كيفية تفعيل التنبيهات"
 }

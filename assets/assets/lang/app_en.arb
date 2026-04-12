@@ -603,5 +603,12 @@
     "referredFrom" : "Referred From",
     "message" : "Message",
     "preferredDate" : "Preferred Date",
-    "selectPreferredDate" : "Select Preferred Date"
+    "selectPreferredDate" : "Select Preferred Date",
+    "notificationsNotAllowedTitle" : "Notifications Not Permitted",
+    "notificationsNotAllowedMessage" : "You Can Toggle The Notification Permission In The Application Settings To Recieve Push Notifications.",
+    "notificationSettings" : "Notification Settings",
+    "status" : "Status",
+    "deactivate" : "Deactivate",
+    "activate" : "Activate",
+    "howToToggleNotifications" : "How To Toggle Notifications"
 }
