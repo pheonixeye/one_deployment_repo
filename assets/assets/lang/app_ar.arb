@@ -609,5 +609,13 @@
     "status" : "الحالة",
     "deactivate" : "تعطيل",
     "activate" : "تفعيل",
-    "howToToggleNotifications" : "كيفية تفعيل التنبيهات"
+    "howToToggleNotifications" : "كيفية تفعيل التنبيهات",
+    "enterBookingDetails" : "ادخل بيانات الحجز",
+    "enterPatientDetails" : "ادخل بيانات المريض",
+    "noAvailableDates" : "لا يوجد مواعيد متاحة",
+    "entryNumber" : "دور الدخول",
+    "entryNumberMessage" : " تم حجز الفترة الزمنية التي اخترتها لمدة 10 دقائق ريثما تُكمل تأكيد الحجز.",
+    "bookingDetails" : "تفاصيل الحجز",
+    "noBookingYet" : "لم يتم الحجز بعد",
+    "shareBookingLink" : "مشاركة رابط الحجز"
 }

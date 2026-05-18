@@ -610,5 +610,13 @@
     "status" : "Status",
     "deactivate" : "Deactivate",
     "activate" : "Activate",
-    "howToToggleNotifications" : "How To Toggle Notifications"
+    "howToToggleNotifications" : "How To Toggle Notifications",
+    "enterBookingDetails" : "Enter Booking Details",
+    "enterPatientDetails" : "Enter Patient Details",
+    "noAvailableDates" : "No Available Dates",
+    "entryNumber" : "Entry Number",
+    "entryNumberMessage" : "Your selected slot is reserved for 10 minutes while you complete the booking confirmation.",
+    "bookingDetails" : "Booking Details",
+    "noBookingYet" : "No Booking Yet",
+    "shareBookingLink" : "Share Booking Link"
 }
