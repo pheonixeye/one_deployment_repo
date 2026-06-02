@@ -169089,7 +169089,7 @@ n=$.f1
 o=n==null?null:n.a
 m=q.a
 s=2
-return A.c(new A.VC("/"+p+"/patients_portal?view=new&org_id="+A.q(o)+"&doc_id="+B.f.ga_(q.b.c.d)).BB(),$async$$0)
+return A.c(new A.VC("https://one.proklinik.app/#/"+p+"/patients_portal?view=new&org_id="+A.q(o)+"&doc_id="+B.f.ga_(q.b.c.d)).BB(),$async$$0)
 case 2:m.a=b
 return A.h(null,r)}})
 return A.i($async$$0,r)},
@@ -173176,7 +173176,7 @@ var $async$$0=A.e(function(a,b){if(a===1)return A.f(b,r)
 for(;;)switch(s){case 0:o=$.f1
 if(o==null)o=null
 else{A.a7(q.c,!1,t.a)
-p="/"+$.a8+"/patients_portal?view=new&org_id="+o.a
+p="https://one.proklinik.app/#/"+$.a8+"/patients_portal?view=new&org_id="+o.a
 o=p}n=q.a
 s=2
 return A.c(new A.VC(o==null?"":o).BB(),$async$$0)
@@ -181246,7 +181246,7 @@ return A.c(q.rW(),$async$oz)
 case 3:t.cb.a(p)
 o=$.f1
 s=4
-return A.c(new A.VC("https://one.proklinik.app/#/ar/patients_portal?org_id="+A.q(o==null?null:o.a)+"&patient_id="+p.a.a).BB(),$async$oz)
+return A.c(new A.VC("/#/ar/patients_portal?org_id="+A.q(o==null?null:o.a)+"&patient_id="+p.a.a).BB(),$async$oz)
 case 4:n=c
 s=5
 return A.c(new A.anw($.f1.c+",\n\u062a\u0645 \u062a\u0633\u062c\u064a\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0627\u0633\u0645\n"+a.b+",\n\u0628\u0631\u062c\u0627\u0621 \u0627\u0644\u062d\u0641\u0627\u0638 \u0639\u0644\u064a \u0647\u0630\u0627 \u0627\u0644\u0631\u0627\u0628\u0637\n("+n+")\n",a.c).Fx(),$async$oz)
