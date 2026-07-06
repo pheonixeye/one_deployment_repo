@@ -169226,7 +169226,7 @@ n=A.a4(n,!1,t._).e
 o=n==null?null:n.a
 m=q.a
 s=2
-return A.c(new A.Vq("/"+p+"/patients_portal?view=new&org_id="+A.q(o)+"&doc_id="+B.f.ga_(q.b.c.d)).BB(),$async$$0)
+return A.c(new A.Vq("https://one.proklinik.app/#/"+p+"/patients_portal?view=new&org_id="+A.q(o)+"&doc_id="+B.f.ga_(q.b.c.d)).BB(),$async$$0)
 case 2:m.a=b
 return A.h(null,r)}})
 return A.i($async$$0,r)},
@@ -172713,7 +172713,7 @@ q.push(new A.GI(o.ga6Q(),B.bw5,p))
 q=A.aj(A.p6(p,q,p,p,p,p,B.ad,!1),1)
 o=A.yc(p,-1,p)
 o.Y=new A.bjk(a)
-return A.eN(p,A.aw(A.b([new A.x(B.r,n,p),q,A.X(A.b([A.bX(A.U(p,p,o,p,"ProKliniK-One v0.2.0+2"),p,p,p)],r),B.u,B.ax,B.v,0,p)],r),B.u,p,B.t,B.v,0,B.N),p,p,p)}}
+return A.eN(p,A.aw(A.b([new A.x(B.r,n,p),q,A.X(A.b([A.bX(A.U(p,p,o,p,"ProKliniK-One v0.2.0+3"),p,p,p)],r),B.u,B.ax,B.v,0,p)],r),B.u,p,B.t,B.v,0,B.N),p,p,p)}}
 A.bjj.prototype={
 $5(a,b,c,d,e){var s,r,q,p=null,o=t.p,n=A.b([],o)
 if(b.d==null)n.push(A.aP(A.xg(p,p,p,p,p),10,p))
@@ -173337,7 +173337,7 @@ var $async$$0=A.e(function(a,b){if(a===1)return A.f(b,r)
 for(;;)switch(s){case 0:o=q.b.e
 if(o==null)o=null
 else{A.a4(q.c,!1,t.a)
-p="/"+$.a8+"/patients_portal?view=new&org_id="+o.a
+p="https://one.proklinik.app/#/"+$.a8+"/patients_portal?view=new&org_id="+o.a
 o=p}n=q.a
 s=2
 return A.c(new A.Vq(o==null?"":o).BB(),$async$$0)
@@ -209888,7 +209888,7 @@ B.ab6=new A.W(!0,B.I,null,null,null,null,24,B.a9,null,null,null,null,null,null,n
 B.bTL=new A.i1("ProKliniK-One",null,B.ab6,null,null,null,null,null,null,null,null)
 B.ab9=new A.W(!0,null,null,null,null,null,8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bPi=new A.iG("\n",null,null,B.d2,null,B.ab9)
-B.bPe=new A.iG("v0.2.0+2",null,null,B.d2,null,B.ab9)
+B.bPe=new A.iG("v0.2.0+3",null,null,B.d2,null,B.ab9)
 B.brU=s([B.bPi,B.bPe],t.R)
 B.bPf=new A.iG("ProKliniK-One",B.brU,null,B.d2,null,null)
 B.abc=new A.i1(null,B.bPf,B.ab6,null,null,null,null,null,null,null,null)
