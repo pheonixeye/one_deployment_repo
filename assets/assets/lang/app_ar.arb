@@ -619,5 +619,6 @@
     "noBookingYet" : "لم يتم الحجز بعد",
     "shareBookingLink" : "مشاركة رابط الحجز",
     "clinicalNotes" : "الملاحظات الاكلينيكية",
-    "prescriptionItemsVisibility" : "اخفاء / اظهار عناصر الروشتة"
+    "prescriptionItemsVisibility" : "اخفاء / اظهار عناصر الروشتة",
+    "errorFetchingVisits" : "خطأ اثناء احضار الزيارات"
 }

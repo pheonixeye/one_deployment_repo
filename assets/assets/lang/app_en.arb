@@ -620,5 +620,6 @@
     "noBookingYet" : "No Booking Yet",
     "shareBookingLink" : "Share Booking Link",
     "clinicalNotes" : "Clinical Notes",
-    "prescriptionItemsVisibility" : "Prescription Items Visibility"
+    "prescriptionItemsVisibility" : "Prescription Items Visibility",
+    "errorFetchingVisits" : "Error Fetching Visits"
 }
