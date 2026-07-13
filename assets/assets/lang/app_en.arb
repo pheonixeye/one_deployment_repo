@@ -621,5 +621,9 @@
     "shareBookingLink" : "Share Booking Link",
     "clinicalNotes" : "Clinical Notes",
     "prescriptionItemsVisibility" : "Prescription Items Visibility",
-    "errorFetchingVisits" : "Error Fetching Visits"
+    "errorFetchingVisits" : "Error Fetching Visits",
+    "noLogoFoundRecieptWillUseDefaultImage" : "No Logo Found, Reciept Will Use Default Image.",
+    "formTitleAlignment" : "Form Title Alignment",
+    "formTextAlignment" : "Form Text Alignment",
+    "cannotOpenAVisitByAnotherDoctor" : "Cannot Open A Visit That Was Attended By Another Doctor"
 }

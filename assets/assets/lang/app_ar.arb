@@ -620,5 +620,9 @@
     "shareBookingLink" : "مشاركة رابط الحجز",
     "clinicalNotes" : "الملاحظات الاكلينيكية",
     "prescriptionItemsVisibility" : "اخفاء / اظهار عناصر الروشتة",
-    "errorFetchingVisits" : "خطأ اثناء احضار الزيارات"
+    "errorFetchingVisits" : "خطأ اثناء احضار الزيارات",
+    "noLogoFoundRecieptWillUseDefaultImage" : "لم يتم العثور علي لوجو للعيادة - سيتم استخدام لوجو البرنامج الاساسي",
+    "formTitleAlignment" : "تغيير اتجاه عنوان النموذج",
+    "formTextAlignment" : "تغيير اتجاه بيانات النموذج",
+    "cannotOpenAVisitByAnotherDoctor" : "لا يمكن فتح زيارة تم مناظرتها بواسطة طبيب اخر"
 }
