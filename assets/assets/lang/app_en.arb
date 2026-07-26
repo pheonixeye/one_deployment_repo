@@ -625,5 +625,12 @@
     "noLogoFoundRecieptWillUseDefaultImage" : "No Logo Found, Reciept Will Use Default Image.",
     "formTitleAlignment" : "Form Title Alignment",
     "formTextAlignment" : "Form Text Alignment",
-    "cannotOpenAVisitByAnotherDoctor" : "Cannot Open A Visit That Was Attended By Another Doctor"
+    "cannotOpenAVisitByAnotherDoctor" : "Cannot Open A Visit That Was Attended By Another Doctor",
+    "selectValue" : "Select Value ...",
+    "addClinicalProgressNote" : "Add Clinical Progress Note",
+    "noProgressNotesFound" : "No Progress Notes Found",
+    "editNote" : "Edit Note",
+    "deleteNote" : "Delete Note",
+    "deleteProgressNotePrompt" : "Delete This Progress Note ? Are You Sure ?",
+    "cannotDeleteAnOldProgressNote" : "Can Delete A Progress Note On The Day Of The Visit Only"
 }
