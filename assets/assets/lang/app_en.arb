@@ -632,5 +632,6 @@
     "editNote" : "Edit Note",
     "deleteNote" : "Delete Note",
     "deleteProgressNotePrompt" : "Delete This Progress Note ? Are You Sure ?",
-    "cannotDeleteAnOldProgressNote" : "Can Delete A Progress Note On The Day Of The Visit Only"
+    "cannotDeleteAnOldProgressNote" : "Can Delete A Progress Note On The Day Of The Visit Only",
+    "previousVisit" : "Previous Visit"
 }

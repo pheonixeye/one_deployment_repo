@@ -631,5 +631,6 @@
     "editNote" : "تعديل",
     "deleteNote" : "الغاء",
     "deleteProgressNotePrompt" : "هل تريد الغاء هذه الملاحظة ؟ هل انت متأكد ؟",
-    "cannotDeleteAnOldProgressNote" : "يمكن الغاء الملاحظات الاكلينيكية في تاريخ تسجيلها فقط"
+    "cannotDeleteAnOldProgressNote" : "يمكن الغاء الملاحظات الاكلينيكية في تاريخ تسجيلها فقط",
+    "previousVisit" : "زيارة سابقة"
 }
